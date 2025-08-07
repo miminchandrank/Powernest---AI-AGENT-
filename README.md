@@ -1,7 +1,6 @@
 # PowerNest AI Agent Platform
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mininchandrank/Powernest---AI-AGENT-)
-![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
+
 
 **FastAPI-powered AI agents for document processing, scheduling, and email automation.**
 
