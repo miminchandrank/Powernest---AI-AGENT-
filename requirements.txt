@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+openai
+python-multipart
+langchain
+python-dateutil
+icalendar
+beautifulsoup4
+pypdf
+dateparser
+spacy
+python-dateutil
